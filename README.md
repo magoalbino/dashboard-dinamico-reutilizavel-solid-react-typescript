@@ -36,7 +36,7 @@ yarn create react-app my-app --template typescript
 
 Separei a configuração das posições no CSS. Antes estava tudo dentro do arquivo `src/components/Dashboard/styles/layouts/_widget.scss` mas como os próprios princípios SOLID sugerem, devemos dar independência aos elementes/modificadores e separar eles do código principal. Então agora você encontra eles dentro da pasta `src/components/Dashboard/styles/position`.
 
-## Expert
+## Créditos
 
 | [<img src="https://avatars.githubusercontent.com/u/35148593?v=4" width="75px;"/>](https://github.com/rafaelperozin) |
 | :-----------------------------------------------------------------------------------------------------------------: |
